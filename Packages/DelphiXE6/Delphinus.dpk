@@ -124,7 +124,8 @@ contains
   DN.DPRProperties.Intf in '..\..\DN.DPRProperties.Intf.pas',
   DN.DPRProperties in '..\..\DN.DPRProperties.pas',
   DN.BPLService.Intf in '..\..\DN.BPLService.Intf.pas',
-  DN.BPLService.ToolsApi in '..\..\DN.BPLService.ToolsApi.pas';
+  DN.BPLService.ToolsApi in '..\..\DN.BPLService.ToolsApi.pas',
+  DN.EnvironmentOptions in '..\..\DN.EnvironmentOptions.pas';
 
 end.
 
